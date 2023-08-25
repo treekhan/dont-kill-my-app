@@ -1,4 +1,4 @@
----
+---batter not charge speed 
 manufacturer:
     - general
 ---
